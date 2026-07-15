@@ -41,7 +41,7 @@
 ## ☁️ Tools & Cloud
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,IntelliJ IDEA" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,idea" />
 </p>
 
 
