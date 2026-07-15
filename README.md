@@ -67,31 +67,11 @@ Java Developer • Spring Boot • React • DSA Enthusiast
 </p>
 
 
-## 🏆 GitHub Trophies
+## 📈 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Akanksha-kumari417&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akanksha-kumari417&theme=tokyo-night&hide_border=true" />
 </p>
-
-
-
-## 📊 GitHub Summary
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akanksha-kumari417&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Akanksha-kumari417&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Akanksha-kumari417&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Akanksha-kumari417&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Akanksha-kumari417&theme=tokyonight&utcOffset=5.5" />
-</p>
-
-
 
 ## 🐍 Contribution Snake
 
