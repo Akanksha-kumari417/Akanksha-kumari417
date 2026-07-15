@@ -14,30 +14,36 @@
 
 ## 🛠 Tech Stack
 
-### Languages
+## 💻 Languages
 
-- Java
-- SQL
-- JavaScript
+<p>
+  <img src="https://skillicons.dev/icons?i=java,cpp,python,js" />
+</p>
 
-### Backend
+## 🎨 Frontend
 
-- Spring Boot
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css" />
+</p>
 
-### Frontend
+## ⚙️ Backend
 
-- React
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,maven" />
+</p>
 
-### Database
+## 🗄️ Database
 
-- PostgreSQL
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres" />
+</p>
 
-### Tools
+## ☁️ Tools & Cloud
 
-- Git
-- GitHub
-- VS Code
-- IntelliJ IDEA
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,IntelliJ IDEA" />
+</p>
+
 
 
 
