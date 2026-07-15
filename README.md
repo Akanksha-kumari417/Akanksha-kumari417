@@ -53,19 +53,11 @@ Java Developer • Spring Boot • React • DSA Enthusiast
   <img src="https://skillicons.dev/icons?i=git,github,postman,idea" />
 </p>
 
+## 📌 Current Focus
 
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Akanksha-kumari417&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akanksha-kumari417&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
- <img src="https://streak-stats.demolab.com?user=Akanksha-kumari417&theme=tokyonight&hide_border=true" />
-</p>
-
+- LeetCode Daily
+- Backend Development
+- System Design Basics
 
 ## 📈 GitHub Activity Graph
 
@@ -73,17 +65,22 @@ Java Developer • Spring Boot • React • DSA Enthusiast
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akanksha-kumari417&theme=tokyo-night&hide_border=true" />
 </p>
 
+
+## 📊 GitHub Statistics
+
+
+
+<p align="center">
+ <img src="https://streak-stats.demolab.com?user=Akanksha-kumari417&theme=tokyonight&hide_border=true" />
+</p>
+
+
+
 ## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Akanksha-kumari417/Akanksha-kumari417/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
-
-## 📌 Current Focus
-
-- LeetCode Daily
-- Backend Development
-- System Design Basics
 
 
 
