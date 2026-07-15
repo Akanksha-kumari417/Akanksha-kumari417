@@ -1,4 +1,13 @@
-# Hi 👋 I'm Akanksha Kumari
+<h1 align="center">Hi 👋, I'm Akanksha Kumari</h1>
+
+<h3 align="center">
+Java Developer • Spring Boot • React • DSA Enthusiast
+</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=600&lines=Java+Developer;Spring+Boot+Learner;React+Developer;DSA+Enthusiast;Open+Source+Learner" />
+</p>
+
 
 ## 💻 About Me
 
@@ -54,7 +63,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+ <img src="https://streak-stats.demolab.com?user=Akanksha-kumari417&theme=tokyonight&hide_border=true" />
 </p>
 
 
@@ -62,6 +71,24 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Akanksha-kumari417&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
+</p>
+
+
+
+## 📈 GitHub Contribution Summary
+
+<p align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akanksha-kumari417&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Akanksha-kumari417&theme=tokyonight" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Akanksha-kumari417&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Akanksha-kumari417&theme=tokyonight" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Akanksha-kumari417&theme=tokyonight&utcOffset=5.5" />
 </p>
 
 
@@ -83,8 +110,16 @@
 
 ## 📫 Connect with Me
 
-LinkedIn:
-www.linkedin.com/in/akanksha-kumari-a9b522337
+<p align="center">
+<a href="https://www.linkedin.com/in/akanksha-kumari-a9b522337">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-Email:
-akankshakumari2715@gmail.com
+<a href="mailto:akankshakumari2715@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+</p>
