@@ -96,9 +96,8 @@ Java Developer • Spring Boot • React • DSA Enthusiast
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Akanksha-kumari417/Akanksha-kumari417/output/github-contribution-grid-snake-white.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Akanksha-kumari417/Akanksha-kumari417/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
-
 
 ## 📌 Current Focus
 
