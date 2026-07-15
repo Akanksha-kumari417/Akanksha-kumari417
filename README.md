@@ -75,20 +75,20 @@ Java Developer • Spring Boot • React • DSA Enthusiast
 
 
 
-## 📈 GitHub Contribution Summary
+## 📊 GitHub Summary
 
 <p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akanksha-kumari417&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akanksha-kumari417&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Akanksha-kumari417&theme=tokyonight" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Akanksha-kumari417&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Akanksha-kumari417&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Akanksha-kumari417&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Akanksha-kumari417&theme=tokyonight" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Akanksha-kumari417&theme=tokyonight&utcOffset=5.5" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Akanksha-kumari417&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Akanksha-kumari417&theme=tokyonight&utcOffset=5.5" />
 </p>
 
 
@@ -96,7 +96,7 @@ Java Developer • Spring Boot • React • DSA Enthusiast
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Akanksha-kumari417/Akanksha-kumari417/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Akanksha-kumari417/Akanksha-kumari417/output/github-contribution-grid-snake-white.svg" alt="Snake animation" />
 </p>
 
 
